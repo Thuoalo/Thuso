@@ -1,2 +1,2 @@
 # Thuso
-Task manger 
+Task manager
